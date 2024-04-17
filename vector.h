@@ -1,5 +1,6 @@
 #include <iostream>
 #include <math.h>
+#include <cstdint>
 
 template<typename T>
 

@@ -1,14 +1,8 @@
 [
 {
-  "directory": "D:/iip/04.04/homework04/build",
-  "command": "C:\\msys64\\mingw32\\bin\\g++.exe  -fsanitize=address -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\iip\\04.04\\homework04\\main.cpp",
-  "file": "D:\\iip\\04.04\\homework04\\main.cpp",
+  "directory": "D:/iip/homework4/build",
+  "command": "C:\\msys64\\mingw32\\bin\\g++.exe  -fsanitize=address -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\iip\\homework4\\main.cpp",
+  "file": "D:\\iip\\homework4\\main.cpp",
   "output": "CMakeFiles\\main.dir\\main.cpp.obj"
-},
-{
-  "directory": "D:/iip/04.04/homework04/build",
-  "command": "C:\\msys64\\mingw32\\bin\\g++.exe  -fsanitize=address -g -o CMakeFiles\\main.dir\\vector.cpp.obj -c D:\\iip\\04.04\\homework04\\vector.cpp",
-  "file": "D:\\iip\\04.04\\homework04\\vector.cpp",
-  "output": "CMakeFiles\\main.dir\\vector.cpp.obj"
 }
 ]

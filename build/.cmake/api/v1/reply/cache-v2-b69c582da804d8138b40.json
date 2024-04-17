@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/iip/04.04/homework04/build"
+			"value" : "d:/iip/homework4/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -139,10 +139,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw32/bin/g++.exe"
 		},
 		{
@@ -439,7 +439,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/04.04/homework04/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/iip/homework4/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/iip/04.04/homework04"
+			"value" : "D:/iip/homework4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/04.04/homework04/build"
+			"value" : "D:/iip/homework4/build"
 		},
 		{
 			"name" : "matrix_IS_TOP_LEVEL",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/04.04/homework04"
+			"value" : "D:/iip/homework4"
 		}
 	],
 	"kind" : "cache",
